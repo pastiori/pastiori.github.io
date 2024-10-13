@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pastiori.github.io/sitemap.html.gz
+Sitemap: https://pastiori.github.io/app/sitemap.html.gz
+Sitemap: https://pastiori.github.io/assets/sitemap.html.gz
+Sitemap: https://pastiori.github.io/css/sitemap.html.gz
+Sitemap: https://pastiori.github.io/includes/sitemap.html.gz
+Sitemap: https://pastiori.github.io/item/sitemap.html.gz
+Sitemap: https://pastiori.github.io/src/sitemap.html.gz
